@@ -4,3 +4,5 @@ Gemfile.lock
 *.gem
 .jekyll-cache
 _config.yml
+config.yml
+._config.yml
